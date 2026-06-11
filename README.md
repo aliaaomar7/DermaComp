@@ -1,5 +1,5 @@
 # DermaComp
-# DermaComp — Dermal Compounding Intelligence Platform
+DermaComp — Dermal Compounding Intelligence Platform- Graduation Project
 
 > **皮膚調合** · Egypt's first integrated dermal compounding intelligence platform  
 > **Status:** Graduation Project — Team 1C, Faculty of Pharmacy, Modern University for Technology and Information (MTI)  
